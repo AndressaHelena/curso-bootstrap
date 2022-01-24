@@ -1,5 +1,5 @@
 body{
-    font: 20px arial, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .navbar{
     background-color: #7CDCF0;
@@ -9,9 +9,18 @@ body{
     color:white;
 }
 .margin{
-    padding-bottom: 40px;
+    padding-bottom: 30px;
     padding-top: 10px;
 }
 .parceiros{
-    background-color: #f39556;
+    background-color: #070707;
+    color:white;
+    
+}
+.servicos{
+    background-color: #e4915a;
+    color:white; 
+}
+.rodape{
+    background-color: #8ddcec;
 }
